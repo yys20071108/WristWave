@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">腕波</string>
+    
+    <!-- 主菜单 -->
+    <string name="main_music">音乐</string>
+    <string name="main_video">视频</string>
+    <string name="main_image">图片</string>
+    <string name="main_recording">录音</string>
+    <string name="main_settings">设置</string>
+    <string name="main_about">关于</string>
+    
+    <!-- 媒体控制 -->
+    <string name="media_play">播放</string>
+    <string name="media_pause">暂停</string>
+    <string name="media_stop">停止</string>
+    <string name="media_next">下一个</string>
+    <string name="media_previous">上一个</string>
+    <string name="media_shuffle">随机播放</string>
+    <string name="media_repeat">重复播放</string>
+    <string name="media_volume">音量</string>
+    <string name="media_mute">静音</string>
+    <string name="media_unmute">取消静音</string>
+    <string name="media_fullscreen">全屏</string>
+    <string name="media_select_file">选择文件</string>
+    
+    <!-- 设置 -->
+    <string name="settings_dark_mode">深色模式</string>
+    <string name="settings_autoplay">自动播放</string>
+    <string name="settings_repeat_mode">重复模式</string>
+    <string name="settings_repeat_off">关闭</string>
+    <string name="settings_repeat_all">全部重复</string>
+    <string name="settings_repeat_one">单曲重复</string>
+    <string name="settings_music_quality">音乐质量</string>
+    <string name="settings_quality_low">低质量</string>
+    <string name="settings_quality_medium">中等质量</string>
+    <string name="settings_quality_high">高质量</string>
+    <string name="settings_video_quality">视频质量</string>
+    <string name="settings_quality_360p">360p</string>
+    <string name="settings_quality_720p">720p</string>
+    <string name="settings_quality_1080p">1080p</string>
+    <string name="settings_image_format">图片格式</string>
+    <string name="settings_enable_fullscreen">启用全屏模式</string>
+    <string name="settings_default_folder">默认文件夹</string>
+    <string name="settings_select">选择</string>
+    <string name="settings_theme">主题</string>
+    <string name="settings_theme_default">默认主题</string>
+    <string name="settings_theme_dark">深色主题</string>
+    <string name="settings_theme_light">浅色主题</string>
+    <string name="settings_theme_colorful">多彩主题</string>
+    
+    <!-- 录音 -->
+    <string name="recording_start">开始录音</string>
+    <string name="recording_stop">停止录音</string>
+    <string name="recording_saved">录音已保存</string>
+    <string name="recording_format">录音格式</string>
+    
+    <!-- 播放列表 -->
+    <string name="playlist_title">播放列表</string>
+    <string name="playlist_empty">播放列表为空</string>
+    
+    <!-- 关于 -->
+    <string name="about_version">版本：1.0.2</string>
+    <string name="about_privacy">隐私政策</string>
+    <string name="about_privacy_text">腕波尊重用户的隐私，并致力于保护个人信息。收集的信息仅用于提供和改善服务，不会与第三方共享。</string>
+    
+    <!-- 权限 -->
+    <string name="permission_storage_rationale">需要存储权限来访问您的媒体文件</string>
+    <string name="permission_recording_rationale">需要麦克风权限进行录音</string>
+    <string name="permission_denied">权限被拒绝，部分功能可能无法使用</string>
+    
+    <!-- 提示 -->
+    <string name="toast_no_media">请先选择媒体文件</string>
+    <string name="toast_file_added">已添加文件</string>
+    <string name="toast_error_playing">播放出错</string>
+</resources>
