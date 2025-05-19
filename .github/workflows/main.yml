@@ -1,8 +1,0 @@
-# 进入项目目录
-cd WristWave
-# 赋予gradlew执行权限
-chmod +x ./gradlew
-# 构建release版本
-./gradlew assembleRelease
-# 生成的APK位置
-# app/build/outputs/apk/release/app-release-unsigned.apk
